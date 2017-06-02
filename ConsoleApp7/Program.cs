@@ -12,6 +12,8 @@ namespace ConsoleApp7
         {
             Console.WriteLine("Hello World!!!");
 
+            Console.WriteLine("My project!!!)");
+
             Console.ReadKey();
         }
     }

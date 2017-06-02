@@ -1,0 +1,6 @@
+C:\Users\Nikolay\Documents\gitTest\TestApp\ConsoleApp7\bin\Debug\ConsoleApp7.exe.config
+C:\Users\Nikolay\Documents\gitTest\TestApp\ConsoleApp7\bin\Debug\ConsoleApp7.exe
+C:\Users\Nikolay\Documents\gitTest\TestApp\ConsoleApp7\bin\Debug\ConsoleApp7.pdb
+C:\Users\Nikolay\Documents\gitTest\TestApp\ConsoleApp7\obj\Debug\ConsoleApp7.csprojResolveAssemblyReference.cache
+C:\Users\Nikolay\Documents\gitTest\TestApp\ConsoleApp7\obj\Debug\ConsoleApp7.exe
+C:\Users\Nikolay\Documents\gitTest\TestApp\ConsoleApp7\obj\Debug\ConsoleApp7.pdb
